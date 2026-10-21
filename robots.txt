@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kite-uk.com/sitemap.xml
